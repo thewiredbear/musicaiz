@@ -21,4 +21,4 @@ sklearn==0.0
 gradio==3.0.15
 torchsummary==1.5.1
 prettytable==3.3.0
-torch==1.11.0 --extra-index-url https://download.pytorch.org/whl/cu113
+torch==2.0.0
