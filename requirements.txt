@@ -1,5 +1,5 @@
-pretty_midi==0.2.9
-pytest==6.2.4
+pretty_midi
+pytest
 pytest-cov
 pytest-mpl
 numpy==1.22.0
